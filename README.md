@@ -20,8 +20,9 @@
 <h3>BI Tools</h3>  
 <p>   
   <a href="https://skillicons.dev">     
-    <img src="https://github.com/redeshub/Power-BI-Icons/blob/main/PNG/Power-BI.png" width="45" height="45"  />   
+    <img src="https://github.com/redeshub/Power-BI-Icons/blob/main/PNG/Power-BI.png" width="45" height="55"  />
   </a> 
+      <img src="https://img.icons8.com/?size=60&id=117561&format=png&color=000000"/>
 </p>  
 
 <h3>Databases</h3>  
@@ -40,7 +41,7 @@
 
 <h2>GitHub Stats</h2>  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BalajiMuppuri-hub&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <h2>Connect with Me</h2>  
