@@ -41,7 +41,7 @@
 
 <h2>GitHub Stats</h2>  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BalajiMuppuri-hub&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-Muppuri&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <h2>Connect with Me</h2>  
