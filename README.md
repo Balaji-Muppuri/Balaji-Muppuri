@@ -20,7 +20,7 @@
 <h3>BI Tools</h3>  
 <p>   
   <a href="https://skillicons.dev">     
-    <img src="https://skillicons.dev/icons?i=powerbi,excel" />   
+    <img src="https://github.com/redeshub/Power-BI-Icons/blob/main/PNG/Power-BI.png" width="45" height="45"  />   
   </a> 
 </p>  
 
